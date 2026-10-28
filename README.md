@@ -2,7 +2,7 @@
 
 <br />
 
-I build web and mobile products, MCP integrations, and local AI workflows. My projects range from team workspaces and automated QA to photo journals and Telegram apps.
+I build web and mobile products, MCP integrations, and local AI workflows. My projects range from team workspaces and automated QA to photo journals.
 
 ### Selected projects
 
@@ -20,20 +20,13 @@ I build web and mobile products, MCP integrations, and local AI workflows. My pr
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <h3><a href="https://github.com/a1231231123bc/before">Frameago</a></h3>
 <p>An offline photo journal for seeing progress over time. Compare moments, create before-and-after images and export short videos on device.</p>
 <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/a1231231123bc/padel-legue">PadelBook</a></h3>
-<p>A Telegram Mini App for booking padel courts, with a React interface, Python API and a companion bot.</p>
-<p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
-</td>
 </tr>
 </table>
-
-Also building **[Screen Studio](https://github.com/a1231231123bc/mindmap)** for collaborative screen planning and **[Fin Tracker](https://github.com/a1231231123bc/Fin-Tracker)** for tracking expenses in Telegram.
 
 ### Tools I work with
 
