@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Pavel Kurmachev — products, systems and local AI</title>
+<desc id="desc">An evergreen and cream banner with a geometric system of connected blocks.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b6d4c4" stroke-opacity=".07"/></pattern></defs>
+<rect width="1280" height="360" rx="20" fill="#122e2a"/>
+<rect x="720" width="560" height="360" fill="url(#grid)"/>
+<path d="M0 340H1280" stroke="#c2dbc8" stroke-width="2" opacity=".18"/>
+<circle cx="65" cy="53" r="5" fill="#c6deaf"/>
+<text x="83" y="58" fill="#c4d4c9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">PRODUCTS · AUTOMATION · OPEN SOURCE</text>
+<text x="58" y="148" fill="#f7f2e7" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Pavel</text>
+<text x="58" y="225" fill="#f7f2e7" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Kurmachev</text>
+<text x="63" y="286" fill="#c4d4c9" font-family="Arial, Helvetica, sans-serif" font-size="23">Building useful software. Connecting the pieces.</text>
+<g fill="none" stroke="#abc6b7" stroke-width="1.5">
+<path d="M844 115H923V177H1043V245H1124" opacity=".55"/>
+<path d="M844 245H922V177" opacity=".55"/>
+<rect x="779" y="71" width="132" height="88" rx="14" fill="#1b3b34"/>
+<rect x="977" y="132" width="132" height="88" rx="14" fill="#234538"/>
+<rect x="779" y="202" width="132" height="88" rx="14" fill="#1b3b34"/>
+<circle cx="1153" cy="245" r="29" fill="#c6deaf" stroke="#c6deaf"/>
+<path d="m1141 245 8 8 16-17" stroke="#122e2a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g fill="#e2eadb" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" text-anchor="middle">
+<text x="845" y="123">BUILD</text><text x="1043" y="184">CONNECT</text><text x="845" y="254">REVIEW</text>
+</g>
+</svg>
